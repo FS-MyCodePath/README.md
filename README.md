@@ -1,5 +1,6 @@
-# README.md
-Resume in english
+### README.md
+➡️[Leia meu currículo em português](https://github.com/FS-MyCodePath)  
+
 Welcome!!!
 
 # 👋 Hi, I'm Fran Santos
