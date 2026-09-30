@@ -7,7 +7,9 @@ Welcome!!!
 
 **Systems Analyst | AWS Cloud | Web Developer | Cybersecurity Enthusiast**
 
-I recently graduated with a Bachelor's degree in Systems Analysis and Development. I'm passionate about cloud computing, automation, cybersecurity, and web development.
+&nbsp;&nbsp;&nbsp;&nbsp;I recently graduated with a Bachelor's degree in Systems Analysis and Development. I'm passionate about cloud computing, automation, cybersecurity, and web development.  
+&nbsp;&nbsp;&nbsp;&nbsp;I am seeking opportunities in the technology field where I can apply my skills, contribute to meaningful projects, and continue growing professionally.
+
 
 ---
 
@@ -15,7 +17,7 @@ I recently graduated with a Bachelor's degree in Systems Analysis and Developmen
 
 You can download my resume here:
 
-📥 [Resume (PDF)](resume/Fran_Santos_Resume.pdf)
+📥 [Resume (PDF)](Resume/FS_Resume.pdf)
 
 ---
 
@@ -132,6 +134,4 @@ Educational ransomware simulation developed in a controlled laboratory for cyber
 
 # 📫 Contact
 
-- LinkedIn
-- GitHub
-- Email
+- [E-mail](mailto:dev.fssantos@protonmail.com)
