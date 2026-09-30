@@ -83,7 +83,7 @@ Automated EBS snapshots using AWS Lambda, IAM, EventBridge and CloudWatch.
 - CloudWatch
 - EC2
 
-👉 [View Project](link)
+👉 [View Project](./Projects/AWS_Lambda_S3_Automation/AWS_Lambda_S3_Automation.md)
 
 ---
 
