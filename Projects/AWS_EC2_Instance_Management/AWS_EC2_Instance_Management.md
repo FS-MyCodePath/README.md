@@ -1,7 +1,7 @@
 # ☁️ **Challenge - AWS EC2 Instance Management**
 
 <p align="center"> AWS Bootcamp Code Girls 2025</p>
-<p align="center"> <img src="./images/Gerenciamento_EC2.png" width="400">
+<p align="center"> <img src="./images/Gerenciamento_EC2 (1).png" width="400">
 </p>
 
         Software architecture project challenge from the Santander Code Girls 2025 Bootcamp, in partnership with DIO.
@@ -25,8 +25,8 @@ This repository presents two practical scenarios involving EC2 instance manageme
 
 ---
 
-<p align="center">
-	Non-Automated Snapshot Flow Diagram
+Non-Automated Snapshot Flow Diagram
+<p align="center">  
   <img src="./images/Desafio-Arquitetura.drawio.png" width="700">
 </p>
 
@@ -49,8 +49,8 @@ Components involved:
 
 ---
 
+Automated Snapshot Flow Diagram  
 <p align="center">
-	Automated Snapshot Flow Diagram
   <img src="./images/Desafio-Arquitetura-Automação.png" width="700">
 </p>
 
