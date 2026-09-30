@@ -115,6 +115,25 @@ Educational ransomware simulation developed in a controlled laboratory for cyber
 
 ---
 
+## AWS EC2 Instance Management & Snapshot Automation
+
+Practical AWS architecture project focused on EC2 instance management, EBS snapshots, S3 storage, IAM permissions, and snapshot automation using AWS Lambda and EventBridge.
+
+**Technologies**
+
+- AWS EC2
+- Amazon EBS
+- EBS Snapshots
+- Amazon S3
+- AWS Lambda
+- IAM
+- Amazon EventBridge
+- AWS Architecture / Draw.io
+
+👉 [View Project](./Projects/AWS_EC2_Instance_Management/AWS_EC2_Instance_Management.md)
+
+---
+
 # 📜 Certifications
 
 - AWS Certified Cloud Practitioner
