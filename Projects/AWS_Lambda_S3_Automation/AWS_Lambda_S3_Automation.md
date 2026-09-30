@@ -1,6 +1,6 @@
 # AWS Lambda S3 Automation
 
-<p align="center"> <img src="./images/logo_lambda_s3.png" width="400"> </p>
+<p align="center"> <img src="./images/logo_lambda_s3 (1).png" width="400"> </p>
 
 ## 🎯 Objectives
 
@@ -38,7 +38,7 @@ The Lambda function then performs an automated task, such as:
 
 When an image is uploaded to an S3 bucket named `imagens-entrada`, S3 triggers a Lambda function that resizes the image and saves the processed version to another bucket named `imagens-processadas`. Everything happens automatically, without manual intervention.
 
-<p align="center"> <img src="./images/Diagrama_labda_s3_auto.drawio.png"> </p>
+<p align="center"> <img src="./images/Diagrama_labda_s3_auto.drawio (1).png"> </p>
 
 ## 📌 Conclusion
 
