@@ -134,6 +134,10 @@ Practical AWS architecture project focused on EC2 instance management, EBS snaps
 
 ---
 
+👉 [View More Projects](./Projects)
+
+---
+
 # 📜 Certifications
 
 - AWS Certified Cloud Practitioner
