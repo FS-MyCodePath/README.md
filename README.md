@@ -95,10 +95,10 @@ Educational project demonstrating phishing attack simulation inside an isolated 
 
 - Kali Linux
 - Python
-- Apache
+- Medusa
 - VirtualBox
 
-👉 [View Project](link)
+👉 [View Project](./Projects/Cybersecurity_Kali_Linux_Medusa_Lab/Cybersecurity_Kali_Linux_Medusa_Lab.md)
 
 ---
 
