@@ -2,7 +2,7 @@
 
 <p align="center">
 <img 
-    src="./images/kali-medusa.png"
+    src="./images/kali-medusa (1).png"
     width="300"
 />
 </p>
