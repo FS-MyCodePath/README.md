@@ -111,7 +111,7 @@ Educational ransomware simulation developed in a controlled laboratory for cyber
 - Python
 - AES Encryption
 
-👉 [View Project](link)
+👉 [View Project](./Projects/Cybersecurity_Python_Lab/Cybersecurity_Python_Lab.md)
 
 ---
 
